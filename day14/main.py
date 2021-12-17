@@ -61,3 +61,4 @@ def solve(ticks):
 
 
 print(solve(40))
+2422444761283
